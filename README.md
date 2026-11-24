@@ -51,4 +51,9 @@ If `--device cuda` is given and no GPU is available, the script runs on the CPU 
 
 ```
 gpu_train_stress.py   the model, the training loop and the reporting
+LICENSE               the licence of this repository
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
